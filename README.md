@@ -14,11 +14,15 @@ py -m venv ai
 
 <br>
 Deactivate:
+
 just type "deactivate"
 
 ## install (pip)
 pip3 install llama-index pypdf python-dotenv pandas
 
+(pip = win)
+
+(pandas: for reading csv file)
 
 Chat GPT Key: (Use your own Chat GPT key)
 
