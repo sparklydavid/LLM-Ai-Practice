@@ -1,5 +1,5 @@
 # LLM-Ai-Practice
-Building Ai Agenet using LlamaIndex
+Building Ai Agenet using LlamaIndex (Free & OpenSource)
 
 ## SetUp
 
