@@ -2,11 +2,22 @@
 Building Ai Agenet using LlamaIndex (Free & OpenSource)
 
 ## SetUp
+Activate virtual env:  
 
-Activate virtual env:
+### Mac:
+python3 -m venv ai  
+source ai/bin/activate  
 
+### Win:
+py -m venv ai  
+./ai/bin/activate  
 
+<br>
 Deactivate:
+just type "deactivate"
+
+## install (pip)
+pip3 install llama-index pypdf python-dotenv pandas
 
 
 Chat GPT Key: (Use your own Chat GPT key)
