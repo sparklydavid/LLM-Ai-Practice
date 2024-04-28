@@ -17,12 +17,17 @@ Deactivate:
 
 just type "deactivate"
 
-## install (pip)
+## install (pip/pip3)
 pip3 install llama-index pypdf python-dotenv pandas
 
-(pip = win)
+| Command | Description |
+| --- | --- |
+| pandas |  read csv file |
+| pypdf | read pdf file |
+| llama-index |  |
+| python-dotenv |  |
 
-(pandas: for reading csv file)
+(: for reading csv file)
 
 Chat GPT Key: (Use your own Chat GPT key)
 
