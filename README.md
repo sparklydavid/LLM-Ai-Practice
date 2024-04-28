@@ -6,11 +6,11 @@ Activate virtual env:
 
 ### Mac:
 python3 -m venv ai  
-source ai/bin/activate  
+source ai/bin/activate  (not sure)
 
 ### Win:
-py -m venv ai  
-./ai/bin/activate  
+python -m venv ai  
+source ai/Scripts/activate
 
 <br>
 Deactivate:
