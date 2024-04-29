@@ -1,5 +1,7 @@
 # LLM-Ai-Practice  
-Building Ai Agenet using LlamaIndex (Free & OpenSource)  
+### OpenAi offer free trial credit, which expires three months after you first created your OpenAI account.
+
+Building Ai Agenet using LlamaIndex (LlamaIndex is Free & OpenSource)  
 
 ## Activate virtual env (setup)
 (first command will create a pyvenv.cfg under ai folder)
