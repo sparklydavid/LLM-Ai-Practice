@@ -2,6 +2,7 @@
 Building Ai Agenet using LlamaIndex (Free & OpenSource)  
 
 ## Activate virtual env (setup)
+(first command will create a pyvenv.cfg under ai folder)
 
 ### Mac:  
 python3 -m venv ai  
@@ -43,3 +44,10 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 2.Taiwan Wiki Page: Tool > Download as PDF
 
 ![Download from Wiki](https://github.com/sparklydavid/LLM-Ai-Practice/blob/main/rm-imgs/guide_wiki.png)
+
+
+Issue Fix:
+
+Venv setup if "access denied" try:
+
+python -m venv /path/to/new/virtual/environment ai
