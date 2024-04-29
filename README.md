@@ -1,24 +1,21 @@
-# LLM-Ai-Practice
-Building Ai Agenet using LlamaIndex (Free & OpenSource)
+# LLM-Ai-Practice  
+Building Ai Agenet using LlamaIndex (Free & OpenSource)  
 
-## SetUp
-Activate virtual env:  
+## Activate virtual env (setup)
 
-### Mac:
+### Mac:  
 python3 -m venv ai  
-source ai/bin/activate  (not sure)
+source ai/bin/activate  (not sure)  
 
-### Win:
+### Win:  
 python -m venv ai  
-source ai/Scripts/activate
+source ai/Scripts/activate  
 
-<br>
-Deactivate:
+## Deactivate  
+just type "deactivate"  
 
-just type "deactivate"
-
-## install (pip/pip3)
-pip3 install llama-index pypdf python-dotenv pandas
+## install (pip/pip3)  
+pip3 install llama-index pypdf python-dotenv pandas  
 
 | Command | Description |
 | --- | --- |
@@ -27,9 +24,13 @@ pip3 install llama-index pypdf python-dotenv pandas
 | llama-index |  |
 | python-dotenv |  |
 
-(: for reading csv file)
 
-Chat GPT Key: (Use your own Chat GPT key)
+## Chat GPT Key (Use your own Chat GPT key)  
+https://platform.openai.com/api-keys
+
+(free account probably have limited usage, but useable)
+
+
 
 
 ## Data used:
@@ -39,6 +40,6 @@ Chat GPT Key: (Use your own Chat GPT key)
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 
-2.Taiwan Wiki Page
-Tool > Download as PDF
+2.Taiwan Wiki Page: Tool > Download as PDF
+
 ![Download from Wiki](https://github.com/sparklydavid/LLM-Ai-Practice/blob/main/rm-imgs/guide_wiki.png)
