@@ -29,7 +29,9 @@ pip install llama-index-experimental
 | python-dotenv |  |
 
 
-## Chat GPT Key (Use your own Chat GPT key)  
+## Chat GPT Key (Use your own Chat GPT key)
+put it in .env file
+
 https://platform.openai.com/api-keys
 
 (OpenAi offer free trial credit, which expires three months after you first created your OpenAI account.)
