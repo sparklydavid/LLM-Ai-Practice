@@ -32,7 +32,7 @@ pip install llama-index-experimental
 ## Chat GPT Key (Use your own Chat GPT key)  
 https://platform.openai.com/api-keys
 
-(free account probably have limited usage, but useable)
+(OpenAi offer free trial credit, which expires three months after you first created your OpenAI account.)
 
 
 
