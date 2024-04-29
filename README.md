@@ -16,7 +16,10 @@ source ai/Scripts/activate
 just type "deactivate"  
 
 ## install (pip/pip3)  
-pip3 install llama-index pypdf python-dotenv pandas  
+pip3 install llama-index pypdf python-dotenv pandas 
+
+pip install llama-index-experimental
+
 
 | Command | Description |
 | --- | --- |
